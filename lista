@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:1,BAND
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/band_49e3d046_f0d0151814418ce68d60e86619126f4a6712a01c/playlist.m3u8
+#EXTINF:1,COMBATE
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/combate_ac3478d6_8084a41e805a1cbe245a14007a6b340895afdce1/playlist.m3u8
+#EXTINF:1,FOX
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_7a2f872aecf9f06d98aba55d13fd48c26bf90a20/playlist.m3u8
+#EXTINF:1,RECORD
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/record_3554dce5_9d6df8367961f5543c9994ad752948ae12ea9bad/playlist.m3u8
+#EXTINF:1,TELECINE PIPOCA
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepipoca_fd937516_efcbb77381f9f1dbb9d3c1df9c9f5270088c832b/playlist.m3u8
+#EXTINF:1,TELECINE PREMIUM
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepremium_a929eb33_e25df160e1a4d61f803f1dcd197fe9f36ccc4b9e/playlist.m3u8
+#EXTINF:1,HBO PLUS
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hboplus480p_17820ac1_23edb561895269d6434f584cf565dcff1b17b0db/playlist.m3u8
